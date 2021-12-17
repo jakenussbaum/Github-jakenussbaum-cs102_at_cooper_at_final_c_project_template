@@ -1,11 +1,8 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<time.h>
+#include "program.h"
 
-int main () {
+int game(){
 
-
-    printf(" \n");
+printf(" \n");
     printf(" \n");
     printf(" \n");
     printf(" \n");
@@ -547,12 +544,11 @@ while(1) {
 return 0;
 
 }
-
- void displayArray(int a[])
+void displayArray(int a[])
 { 
      int i;
      for (i=1; i<=7; i++)
      {
          printf("%d\t%d\t%d\n",a[i],a[i+7],a[i+14]);
      }
- }
+}
