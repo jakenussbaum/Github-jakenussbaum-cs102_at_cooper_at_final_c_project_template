@@ -1,5 +1,6 @@
 #include "program.h"
 
-int main(){
-game();
+int main()
+{
+  game();
 }
