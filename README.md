@@ -22,6 +22,8 @@ The fourth game is called 21KaratMagic. In this game, the computer uses arrays t
 
 Finally, in order to complete the virtual game center, we added a MadLibs game. The user enters various inputs, such as nouns and celebrity names, and then the computer generates a hilarious story based on the user’s inputs. 
 
+LINK TO YOUTUBE VIDEO: https://youtu.be/3TY5YIn5rEs
+
 Below are sample screenshots of our code and its output.
 
 
